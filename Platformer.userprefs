@@ -1,9 +1,12 @@
 ﻿<Properties StartupConfiguration="{8FAA6539-9151-44FB-BFC0-3A0C05D80B14}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Platformer/Model/Level.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Platformer/Controller/Program.cs">
     <Files>
       <File FileName="Platformer/Controller/PlatformerGame.cs" Line="1" Column="1" />
       <File FileName="Platformer/Controller/Program.cs" Line="1" Column="1" />
-      <File FileName="Platformer/Model/Level.cs" Line="1" Column="1" />
+      <File FileName="Platformer/Model/Level.cs" Line="517" Column="1" />
+      <File FileName="Platformer/View/AnimationPlayer.cs" Line="84" Column="58" />
+      <File FileName="Platformer/Model/Player.cs" Line="36" Column="3" />
+      <File FileName="Platformer/View/Animation.cs" Line="58" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
